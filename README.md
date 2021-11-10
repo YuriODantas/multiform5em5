@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+# Multi Formulário
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## O que é o Desafio 5 em 5?
 
-## Available Scripts
+Esse desafio do professor Bonieky Lacerda consiste em construir 5 aplicações completas em 5 dias, aonde esse é o 5º projeto, um Multi Formulário.
 
-In the project directory, you can run:
+## Quem é o professor?
 
-### `yarn start`
+[![Bonieky Lacerda](https://portalwebdesigner.com/wp-content/uploads/2018/12/instrutor-bonieky-lacerda.jpeg)](https://www.linkedin.com/in/bonieky/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tecnologias que foram usadas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Para desenvolver esse quinto projeto, optamos por usar as seguintes tecnologias:
 
-### `yarn test`
+* [ReactJs](https://pt-br.reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Styled-components](https://styled-components.com/)
+* [React-Router](https://reactrouter.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Minhas considerações
 
-### `yarn build`
+Você que esta aqui em meu portfólio fique a vontade para estudar meus códigos e modifica-los da forma que achar melhor.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Licença
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
