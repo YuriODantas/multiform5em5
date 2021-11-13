@@ -1,4 +1,4 @@
-import { ChangeEvent, useEffect } from 'react';
+import { useEffect } from 'react';
 import { useHistory } from 'react-router';
 import { Link } from 'react-router-dom';
 import { SelectOption } from '../../components/SelectOption';
